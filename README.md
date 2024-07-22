@@ -30,4 +30,6 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 - Cyberpunk 2077
 - Genshin Impact
 - fan-tan (card game)
+- LOL
+- monster strike
 - reversi
