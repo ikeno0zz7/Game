@@ -34,3 +34,4 @@ To complete the assignment, please do the following:
 5. One Last Kiss
 6. Lemon
 7. Stay
+8. Magnetic
